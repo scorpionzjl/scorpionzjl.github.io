@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>hexo基本命令</title>
+    <url>/2020/12/22/hello-world/</url>
+    <content><![CDATA[<!--
+作者：CandyBullet
+链接：http://www.imooc.com/article/23400
+来源：慕课网
+Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for 更多操作. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+-->
+
+<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新的文章"><a href="#创建一篇新的文章" class="headerlink" title="创建一篇新的文章"></a>创建一篇新的文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>更多操作: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<a id="more"></a>
+<h3 id="启动"><a href="#启动" class="headerlink" title="启动"></a>启动</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>更多操作: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="构建"><a href="#构建" class="headerlink" title="构建"></a>构建</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>更多操作: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>更多操作: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>初小纪</title>
+    <url>/2020/12/23/%E5%88%9D%E5%B0%8F%E7%BA%AA/</url>
+    <content><![CDATA[<h3 id="出世"><a href="#出世" class="headerlink" title="出世"></a>出世</h3><h3 id="平乱"><a href="#平乱" class="headerlink" title="平乱"></a>平乱</h3><h3 id="昌盛"><a href="#昌盛" class="headerlink" title="昌盛"></a>昌盛</h3><h3 id="陨落"><a href="#陨落" class="headerlink" title="陨落"></a>陨落</h3>]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+</search>
