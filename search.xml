@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>初小纪</title>
-    <url>/2020/12/23/%E5%88%9D%E5%B0%8F%E7%BA%AA/</url>
-    <content><![CDATA[<h3 id="1、出世"><a href="#1、出世" class="headerlink" title="1、出世"></a>1、出世</h3><h3 id="2、平乱"><a href="#2、平乱" class="headerlink" title="2、平乱"></a>2、平乱</h3><h3 id="3、昌盛"><a href="#3、昌盛" class="headerlink" title="3、昌盛"></a>3、昌盛</h3><h3 id="4、陨落"><a href="#4、陨落" class="headerlink" title="4、陨落"></a>4、陨落</h3>]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo基本命令</title>
     <url>/2020/12/22/hello-world/</url>
     <content><![CDATA[<!--
@@ -36,6 +25,17 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
       </categories>
       <tags>
         <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>初小纪</title>
+    <url>/2020/12/23/%E5%88%9D%E5%B0%8F%E7%BA%AA/</url>
+    <content><![CDATA[<h3 id="1、出世"><a href="#1、出世" class="headerlink" title="1、出世"></a>1、出世</h3><h3 id="2、平乱"><a href="#2、平乱" class="headerlink" title="2、平乱"></a>2、平乱</h3><h3 id="3、昌盛"><a href="#3、昌盛" class="headerlink" title="3、昌盛"></a>3、昌盛</h3><h3 id="4、陨落"><a href="#4、陨落" class="headerlink" title="4、陨落"></a>4、陨落</h3>]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
       </tags>
   </entry>
 </search>
